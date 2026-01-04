@@ -53,7 +53,7 @@ The system simulates basic banking operations such as managing clients, accounts
 ## Project Structure
 Bank-System/
 │
-├── main.cpp
+├── main.cpp\n
 ├── Core
     ├── clsBankClient.h
     ├── clsCurrency.h
